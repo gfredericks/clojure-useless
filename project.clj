@@ -1,3 +1,6 @@
-(defproject clojure-useless "1.0.0-SNAPSHOT"
-  :description "FIXME: write description"
-  :dependencies [[org.clojure/clojure "1.2.1"]])
+(defproject clojure-useless "0.1.0-SNAPSHOT"
+  :description "A collection of utility functions that won't improve your Clojure code"
+  :url "https://github.com/gfredericks/clojure-useless"
+  :license {:name "Eclipse Public License"
+            :url "http://www.eclipse.org/legal/epl-v10.html"}
+  :dependencies [[org.clojure/clojure "1.6.0"]])
